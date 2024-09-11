@@ -20,7 +20,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-IITP&theme=dark" alt="Abhishek-IITP" /></p>  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-IITP&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-IITP&theme=dark" alt="Abhishek-IITP" /></p>  <p>https://github-readme-stats.vercel.app/api?username=Abhishek-IITP&show_icons=true&theme=radical</p>
 
 
 - 👀 I’m interested in WebDevelpment.
