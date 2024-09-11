@@ -30,7 +30,7 @@
 - 💞️ I’m looking to collaborate on involves contributing code, reviewing others' contributions and managing project tasks. It's all about working together to improve the project and achieve its goals.
 
 
-- ⚡ Fun fact: my 2nd love:-  TRADING....I have been trading for the past 2 years.
+- ⚡ Fun fact: my 2nd love:-  TRADING....I have been involved in trading for the past 2 years.
 
 <!---
 Abhishek-IITP/Abhishek-IITP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
