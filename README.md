@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek-IITP
 - - <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-IITP&label=Profile%20views&color=b1bc62&style=flat" alt="Abhishek-IITP" /> </p>
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-IITP&show_icons=true&theme=radical)
 
+<h3 align="left">Languages and Tools:</h3>
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_abhi_930/)
 
 
-
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-IITP&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-IITP&theme=dark" alt="Abhishek-IITP" /></p>
 
 
