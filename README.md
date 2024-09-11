@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Abhishek-IITP
-![Header](https://chat.openai.com/mnt/data/A_sleek_and_modern_GitHub_profile_banner_featuring.png)
-
-- ![Coder](https://your-gif-url.com/coder.gif)
 
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-IITP&show_icons=true&theme=radical)
