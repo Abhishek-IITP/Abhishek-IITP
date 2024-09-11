@@ -8,6 +8,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-me%20here-red?style=for-the-badge"></a>
+
 ## ⚡ GitHub Activity Graph
 
 ![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek-IITP&theme=dracula)
