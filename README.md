@@ -2,6 +2,9 @@
 
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-IITP&show_icons=true&theme=radical)
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-IITP&label=Profile%20views&color=b1bc62&style=flat" alt="Abhishek-IITP" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhihsek-IITP" alt="Abhishek-IITP" /></a> </p>
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
