@@ -17,6 +17,11 @@
 [![Email](https://img.shields.io/badge/Email-me%20here-red?style=for-the-badge)](mailto:abhishekmoanty7325@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-mohanty-716b432b5)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_abhi_930/)
+- 👀 I’m interested in WebDevelpment.
+- 🌱 I’m currently learning webDevelopment
+- 💞️ I’m looking to collaborate on involves contributing code, reviewing others' contributions and managing project tasks. It's all about working together to improve the project and achieve its goals.
+
+- ⚡ Fun fact: my 2nd love:-  TRADING....I have been involved in trading for the past 2 years.
 
 
 
@@ -25,11 +30,6 @@
 
 
 
-- 👀 I’m interested in WebDevelpment.
-- 🌱 I’m currently learning webDevelopment
-- 💞️ I’m looking to collaborate on involves contributing code, reviewing others' contributions and managing project tasks. It's all about working together to improve the project and achieve its goals.
-
-- ⚡ Fun fact: my 2nd love:-  TRADING....I have been involved in trading for the past 2 years.
 
 <!---
 Abhishek-IITP/Abhishek-IITP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
