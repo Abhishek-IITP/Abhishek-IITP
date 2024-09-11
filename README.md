@@ -8,7 +8,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/abhishekmoanty7325@gmail.com-me%20here-red?style=for-the-badge"></a>
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-me%20here-red?style=for-the-badge)](mailto:abhishekmoanty7325@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-mohanty-716b432b5)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_abhi_930/)
+
+
 
 ## ⚡ GitHub Activity Graph
 
@@ -19,7 +25,7 @@
 - 🌱 I’m currently learning webDevelopment
 - 💞️ I’m looking to collaborate on involves contributing code, reviewing others' contributions and managing project tasks. It's all about working together to improve the project and achieve its goals.
 
-- 📫 How to reach me  at Linkedin:- https://www.linkedin.com/in/abhishek-kumar-mohanty-716b432b5 or instagram = [mr_abhi_930](https://www.instagram.com/mr_abhi_930/?hl=en)
+
 - ⚡ Fun fact: my 2nd love:-  TRADING....I have been trading for the past 2 years.
 
 <!---
