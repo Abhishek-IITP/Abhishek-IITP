@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abhishek-IITP
-- ![Header](https://your-image-link.com/banner.png)
+![Header](https://chat.openai.com/mnt/data/A_sleek_and_modern_GitHub_profile_banner_featuring.png)
+
 - ![Coder](https://your-gif-url.com/coder.gif)
 
 
