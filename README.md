@@ -1,4 +1,4 @@
-<img src="image\github.gif" alt="chillin" width="520" height="100"/>
+<img src="image\github.gif" alt="chillin" width="520" height="500">
 
 
 - 👋 Hi, I’m @Abhishek-IITP
