@@ -1,4 +1,4 @@
-<img src="assets/watchin.gif" alt="chillin" width="1920" height="250"/>
+<img src="D:\Abhishek-IITP\ABHILIB\Abhishek-IITP\image\github.gif" alt="chillin" width="1920" height="250"/>
 
 
 - 👋 Hi, I’m @Abhishek-IITP
