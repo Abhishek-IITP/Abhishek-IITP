@@ -1,10 +1,18 @@
-
 <p align="center">
-  <img src="image\github.gif" alt="chillin" width="520" height="500 >
+  <img src="image/github.gif" alt="chillin" width="520" height="450" />
 </p>
 
-- 👋 Hi, I’m @Abhishek-IITP
-- - <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-IITP&label=Profile%20views&color=b1bc62&style=flat" alt="Abhishek-IITP" /> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Aboreto&weight=800&size=36&duration=3000&pause=1000&color=0083C6&background=EBFF3900&center=true&multiline=true&random=false&width=450&height=130&lines=Greetings!+;I'm+Abhishek+Mohanty%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-IITP&label=Profile%20views&color=b1bc62&style=flat" alt="Abhishek-IITP" />
+</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
