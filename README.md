@@ -1,3 +1,6 @@
+<img src="assets/watchin.gif" alt="chillin" width="1920" height="250"/>
+
+
 - 👋 Hi, I’m @Abhishek-IITP
 - - <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-IITP&label=Profile%20views&color=b1bc62&style=flat" alt="Abhishek-IITP" /> </p>
 
