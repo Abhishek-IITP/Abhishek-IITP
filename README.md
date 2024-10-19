@@ -38,8 +38,8 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-IITP&theme=dark" alt="Abhishek-IITP" /></p>  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-IITP&show_icons=true&theme=tokyonight&locale=en" alt="Abhishek-IITP" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-IITP&theme=dark" alt="Abhishek-IITP" /></p>  
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-IITP&show_icons=true&theme=tokyonight&locale=en" alt="Abhishek-IITP" /></p>
 
 [![An image of @abhishekiitp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekiitp)](https://holopin.io/@abhishekiitp)
 
