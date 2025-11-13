@@ -42,3 +42,4 @@ I'm always open to discussing new opportunities, collaborations, or just connect
 
 ---
 
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss opportunities!
