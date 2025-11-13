@@ -18,7 +18,8 @@ I'm a passionate web developer specializing in building modern, scalable web app
 
 ## 💻 Tech Stack
 
-Main Stack: MERN (MongoDB, Express.js, React.js, Node.js) • Next.js • TypeScript • TailwindCSS • Framer Motion
+
+- Main Stack: MERN (MongoDB, Express.js, React.js, Node.js) • Next.js • TypeScript • TailwindCSS • Framer Motion
 ---
 
 ## 🎯 What I'm Looking For
