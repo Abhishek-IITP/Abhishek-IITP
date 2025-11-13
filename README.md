@@ -42,10 +42,3 @@ I'm always open to discussing new opportunities, collaborations, or just connect
 
 ---
 
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-IITP&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-*Feel free to explore my repositories and reach out if you'd like to collaborate or discuss opportunities!*
