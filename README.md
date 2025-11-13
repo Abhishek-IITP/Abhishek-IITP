@@ -16,25 +16,9 @@ I'm a passionate web developer specializing in building modern, scalable web app
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-**Frontend Development**
-- JavaScript (ES6+), React.js, HTML5, CSS3
-- Responsive design and modern UI/UX principles
-
-**Backend Development**
-- Node.js, Express.js
-- Python, Django
-- RESTful API design and implementation
-
-**Programming Languages**
-- JavaScript, Python, C++
-
-**Development Practices**
-- Version control with Git & GitHub
-- Collaborative development and code reviews
-- Problem-solving and algorithm design
-
+Main Stack: MERN (MongoDB, Express.js, React.js, Node.js) • Next.js • TypeScript • TailwindCSS • Framer Motion
 ---
 
 ## 🎯 What I'm Looking For
