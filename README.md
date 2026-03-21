@@ -1,6 +1,6 @@
 # Hi, I'm <a href="https://linktr.ee/AbhishekIITP">Abhishek Kumar Mohanty </a> 👋
 
-**Full-Stack Web Developer | AI-Powered Web Apps | Trading Enthusiast
+**Full-Stack Web Developer | AI-Powered Web Apps | Trading Enthusiast**
 
 I build modern, scalable web applications with a strong focus on real-world usability and performance. I work across the full stack using Next.js and the MERN ecosystem, and actively integrate AI and LLMs to enhance products rather than replace human thinking.
 
